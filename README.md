@@ -1,7 +1,6 @@
 ### Olá 👋
 
 Me chamo Elias de Siqueira, sou iniciante na area de FrontEnd,estou estudando HTML,CSS e JAVASCRIPT
-![Elias Siqueira GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasssiqueira&show_icons=true&theme=radical)
 
 - 🔭 Atualmente estou trabalhando em um site para meu portifólio 
 - 🌱 Atualmente estou aprendendo HTML,CSS E JAVASCRIPT
@@ -14,10 +13,6 @@ Me chamo Elias de Siqueira, sou iniciante na area de FrontEnd,estou estudando HT
     - linkedin: https://www.linkedin.com/in/elias-de-siqueira-6396a495/
 - ⚡ Curiosidades: 
 
+![Elias Siqueira GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasssiqueira&show_icons=true&theme=radical)
 
-<details>
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
-  eu sou elias de siqueira
-  <br>
-  </details>
 
