@@ -1,16 +1,22 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**eliasssiqueira/eliasssiqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Elias de Siqueira, sou iniciante na area de FrontEnd,estou estudando HTML,CSS e JAVASCRIPT
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 Atualmente estou trabalhando em um site para meu portifólio 
+- 🌱 Atualmente estou aprendendo HTML,CSS E JAVASCRIPT
+- 👯 Estou procurando colaborar em projetos FrontEnd
+- 🤔 Estou procurando ajuda com HTML,CSS E JAVASCRIPT
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Como chegar até mim: 
+    - email: eliassantos584@gmail.com
+    - instagram:https://www.instagram.com/eliasssiqueira/
+    - linkedin: https://www.linkedin.com/in/elias-de-siqueira-6396a495/
+- ⚡ Curiosidades: 
+
+
+<details>
+  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  eu sou elias de siqueira
+  <br>
+  </details>
+
