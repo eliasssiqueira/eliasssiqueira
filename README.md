@@ -1,5 +1,3 @@
-![Elias Siqueira GitHub stats](https://github-readme-stats.vercel.app/api?username=eliasssiqueira&show_icons=true&theme=radical)
-
 ### Olá 👋
 
 Me chamo Elias de Siqueira, sou iniciante na area, estou fazendo graduação em Engenharia de Computação, 
