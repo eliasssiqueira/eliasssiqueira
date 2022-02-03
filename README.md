@@ -1,7 +1,7 @@
 ### Olá 👋
 
 Me chamo Elias de Siqueira, sou iniciante na area, estou fazendo graduação em Engenharia de Computação, 
-e estou fazendo cursos de HTML,CSS e JAVASCRIPT.
+e estou realizando cursos de HTML,CSS e JAVASCRIPT.
 
 - 🔭 Atualmente estou trabalhando em um site para meu portifólio 
 - 🌱 Atualmente estou aprendendo HTML,CSS E JAVASCRIPT
